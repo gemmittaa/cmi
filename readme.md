@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## (Destellos de Acero)
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,59 +8,50 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Destellos de Acero
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Gemma Millán Cruz
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto busca llegar más allá de la pantalla y conseguir que el jugador reflexione mientras se divierte. Esta será una copilación de diferentes historias narrando sus pensamientos, inquietudes,inseguridades,... exponiendo su lucha de identidad por la que todos pasamos.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Novela / juego /
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : (IMG_3788 (1).PNG) 
 
-(insertar imágenes a resolucion de 100px alto)
+**Resolución:** 800x600px tamaño fijo 
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   (Google Chrome)
 
 **Tamaño proyecto:** 14MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 28/05/2025
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios**:
 
-- Github:
-- Twitter
-- Instagram
+- Github: gemmittaa
 
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 
+Teaser (Uni-5.jpg)
+Petunia (Ilustración_sin_título (6).png) 
+Nieve Negra (IMG_4358 (2).PNG)
+Armadilla Egocentrilla (Ilustración_sin_título (7).png)
+Duende Travieso (Ilustración_sin_título (8).png)
 
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+(Mi proyecto cuenta la historia de varios personajes variopintos de un pueblo. Estos son, Petunia; la alcaldesa que es una gusano rosa,un viejo prisionero llamado Nieve Negra, Armadilla; una armadillo muy egocéntrica y un duende que protege la última de las tres llaves que debes conseguir a lo largo de la historia. Estas llaves se consiguen respondiendo con sinceridad a las preguntas.)
 
 
 
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
+(IMG_4397.PNG)
 
 
 # 3. Metodología
@@ -71,70 +62,55 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
-
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque nos invita a escuchar las historias de los demás, incluso nos invita a hacer un trabajo de introspección.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
-
+- Orientado a un público a partir de 12 años.
 
 
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
 - Juego. 
 - Video 
-- Instrucciones y ayuda al usuario 
 - Menús y elementos de navegación (botones)
-- etc.
-
+- Galería
+- Teaser con animaciones
+- Diálogos
+- Interacciones, dando a elegir opciones
+- Un quizz
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Creo que hubiera funcionado mejor si hubiera pulido los dibujos o la estética para que tengan mayor unidad de la que ya tienen.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 
-
-
-
+Creo que está bastante bien y que he cumplido los objetivos del proyecto. Para un futuro me gustaría hacer algo diferente quizás mas complejo y más desarrollado. Y como problemas quizás el mencionado anteriormente.
 
 
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Imágenes: Son todas dibujadas y creadas por mi
+* Tipografía:Prince Valiant
 
 **Herramientas utilizadas**
 
-- Hippani Animator 5.1
+- Godot 4.4
 - 
 
 

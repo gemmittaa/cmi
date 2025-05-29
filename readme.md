@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## DESTELLOS DE ACERO
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,59 +8,53 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Destellos de Acero
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Gemma Millán Cruz
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto busca hacer que el jugador reflexione acerca de preguntas existenciales, con un punto cómico a través de la historia de los personajes de un pueblo.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Novela / juego
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : ![image](https://github.com/user-attachments/assets/3274bb02-86c5-4101-8110-cf1f9563d9d1)
 
-(insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px tamaño fijo
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   (Google Chrome)
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 1.7 GB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 28/05/2025
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
+- Github: gemmittaa
 
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 
+![image](https://github.com/user-attachments/assets/328b6e90-e60e-4d83-b70b-a1c183c455ca)
 
+![image](https://github.com/user-attachments/assets/d17cbf7d-8447-460d-9170-99096f8f781d)
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+![image](https://github.com/user-attachments/assets/8d46b65b-6deb-48d6-a30d-3a9cf013c806)
 
+![image](https://github.com/user-attachments/assets/988f6e6f-8653-4007-9b5d-28afcc454ceb)
+
+![image](https://github.com/user-attachments/assets/1a8f8cb7-bbc7-47f2-b345-337d7fefda8d)
 
 
 ### 2.2. Esquema de navegación 
 
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/f05fe6e8-fe7a-4fdb-8c9f-98fa5a743b25)
 
 
 # 3. Metodología
@@ -71,22 +65,17 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
+**Investigación de campo** 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque te hace refelxionar acerca de temas existenciales como las inseguridades o el miedo a la soledad. 
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a un público de mayores de 10 años, para poder entender realmente el mensaje detrás de sus historias.
 
 
 
@@ -94,25 +83,23 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
+- Juego
 - Video 
 - Instrucciones y ayuda al usuario 
 - Menús y elementos de navegación (botones)
-- etc.
+- Exportar: El problema más grande sin duda ha sido este, me ha dado muchos problemas para que funcione bien. Por temas de mi ordenador,....
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
+El problema ha sido que quizás con más tiempo hubiera realizado más dibujos para que los personajes cambiaran más, pero por lo demás creo que he cumplido con los objetivos del proyecto.
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Como he mencionado anteriormente, me hubiese gustado mejorar la estética del juego.
 
 
 
@@ -122,19 +109,14 @@ Este  proyecto es interesante porque ...
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Imágenes: Todas creadas y diseñadas por mi.
+* Tipografía: Prince Valiant
 
 **Herramientas utilizadas**
 
-- Hippani Animator 5.1
+- Godot 4.4
 - 
 
 
